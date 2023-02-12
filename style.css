@@ -1,0 +1,99 @@
+
+body{
+        background-color:burlywood;
+        font-family:'Lucida Sans';
+}
+.forrm
+{
+    display:flex;
+    font-size:30px;
+    font-weight:bold;
+    color:black;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    margin-top:200px;
+    margin-bottom:10px;
+    
+
+}
+
+.select
+{
+    font-family:'Lucida Sans';
+    display:flex;
+    font-size:20px;
+    color:red;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:20px;
+
+}
+#temp
+{
+    font-family:'Lucida Sans';
+    border-radius:3px;
+    border-width:2px;
+    padding-right:20px;
+    border-color:black;
+    
+}
+
+.total
+{
+   
+  text-align:center;
+  justify-content:center;
+  align-items:center;
+  margin-left:160px;  
+background-color:paleturquoise;
+width:1000px;
+height:300px;
+}
+#temp-diff{
+    font-family:'Lucida Sans';
+    border-radius:3px;
+    border-width:2px;
+    font-weight: bold;
+    padding-left:20px;
+    border-color:black;
+}
+
+#btn{
+
+    font-family:'Lucida Sans';
+    width:100px;
+    height:26px;
+    border-radius:3px;
+    border-width:2px;
+    font-weight: bold;
+    font-size:20px;
+    
+
+    
+}
+
+#btn:hover{
+    cursor:pointer;
+    
+    color:blue;
+}
+
+
+#resultcontainer
+{
+    font-family:'Lucida Sans';
+    display:flex;
+    font-size:20px;
+    color:red;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    margin-top:20px;
+    border-color:black;
+    border-width:6px;
+    margin-bottom:20px;
+}
+
